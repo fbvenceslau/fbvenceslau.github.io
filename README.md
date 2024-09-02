@@ -60,11 +60,11 @@ Abra o arquivo index.html em seu navegador.
 Este projeto está licenciado sob a MIT License.
 
 ## 📧 Contato
-Sinta-se à vontade para entrar em contato comigo:
+Sinta-se à vontade para entrar em contato comigo:\
 
-E-mail: fb.venceslau@gmail.com
-Instagram: [@fb.venceslau](https://www.instagram.com/fb.venceslau/)
-LinkedIn: [Fábio Venceslau](https://www.linkedin.com/in/fabio-venceslau/)
+E-mail: fb.venceslau@gmail.com\
+Instagram: [@fb.venceslau](https://www.instagram.com/fb.venceslau/)\
+LinkedIn: [Fábio Venceslau](https://www.linkedin.com/in/fabio-venceslau/)\
 Feito com ❤️ por Fábio Venceslau
 
 ### Explicação das Seções
