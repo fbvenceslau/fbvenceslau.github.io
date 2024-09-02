@@ -5,7 +5,7 @@ Bem-vindo ao repositório do meu portfólio! Este projeto é uma página web pes
 ## 🔗 Demonstração
 
 Você pode acessar a versão ao vivo do portfólio através do seguinte link:
-[https://fbvenceslau.github.io/](https://fbvenceslau.github.io/)
+[meu-portfolio.github.io](https://meu-portfolio.github.io)
 
 ## 📑 Conteúdo
 
@@ -31,7 +31,7 @@ O portfólio é responsivo e foi projetado para ser visualmente atraente tanto e
 
 ## 📂 Estrutura de Diretórios
 
-plaintext
+```plaintext
 ├── assets/
 │   ├── images/
 │   │   ├── profile.jpg
@@ -43,7 +43,8 @@ plaintext
 ├── js/
 │   └── script.js
 ├── index.html
-└── README.md```
+└── README.md
+```
 
 ## 🚀 Como Executar Localmente
 
