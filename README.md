@@ -44,6 +44,7 @@ O portfólio é responsivo e foi projetado para ser visualmente atraente tanto e
 │   └── script.js
 ├── index.html
 └── README.md
+```
 
 ## 🚀 Como Executar Localmente
 
