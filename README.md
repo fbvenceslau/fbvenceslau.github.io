@@ -49,7 +49,7 @@ O portfólio é responsivo e foi projetado para ser visualmente atraente tanto e
 ## 🚀 Como Executar Localmente
 
 1. Clone este repositório para sua máquina local usando:
-git clone https://github.com/usuario/meu-portfolio.git
+git clone https://github.com/fbvenceslau/fbvenceslau.github.io.git
 cd meu-portfolio
 
 2. Navegue até o diretório do projeto:
