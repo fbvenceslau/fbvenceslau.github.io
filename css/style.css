@@ -1,0 +1,124 @@
+/* Body Style */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+/* Header Style */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Navigation Style */
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Section Style */
+section {
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* About Section Style */
+#about {
+  text-align: center;
+}
+
+/* Profile Picture Style */
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+/* Project Section Style */
+#projects {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px; /* Espaçamento entre as colunas */
+  justify-content: center;
+  padding: 20px;
+}
+
+#projects h2 {
+  text-align: center;
+  grid-column: 1 / -1; /* Faz o título ocupar toda a largura das colunas */
+  margin-bottom: 30px;
+}
+
+.project {
+  background-color: #fff;
+  padding: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.project img {
+  max-width: 50px; /* Reduza este valor para diminuir a imagem */
+  height: auto;
+  display: block;
+}
+
+/* Contact Section Style */
+#contact {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.contact-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Espaçamento entre os ícones */
+}
+
+.contact-list a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.contact-list a i {
+  font-size: 40px;
+}
+
+.contact-list a:hover {
+  text-decoration: underline;
+}
+
+/* Footer Style */
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+}
