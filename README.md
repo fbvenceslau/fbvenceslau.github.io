@@ -31,7 +31,7 @@ O portfólio é responsivo e foi projetado para ser visualmente atraente tanto e
 
 ## 📂 Estrutura de Diretórios
 
-```plaintext
+plaintext
 ├── assets/
 │   ├── images/
 │   │   ├── profile.jpg
