@@ -5,7 +5,7 @@ Bem-vindo ao repositório do meu portfólio! Este projeto é uma página web pes
 ## 🔗 Demonstração
 
 Você pode acessar a versão ao vivo do portfólio através do seguinte link:
-[meu-portfolio.github.io](https://meu-portfolio.github.io)
+[https://fbvenceslau.github.io](https://fbvenceslau.github.io)
 
 ## 📑 Conteúdo
 
@@ -49,24 +49,25 @@ O portfólio é responsivo e foi projetado para ser visualmente atraente tanto e
 ## 🚀 Como Executar Localmente
 
 1. Clone este repositório para sua máquina local usando:
-git clone https://github.com/usuario/meu-portfolio.git
-cd meu-portfolio
+```git clone https://github.com/username/username.github.io.git```
+```cd username```
 
 2. Navegue até o diretório do projeto:
-cd meu-portfolio
+```cd username```
 Abra o arquivo index.html em seu navegador.
 
 ## 📝 Licença
+
 Este projeto está licenciado sob a MIT License.
 
 ## 📧 Contato
-Sinta-se à vontade para entrar em contato comigo:
 
-E-mail: fb.venceslau@gmail.com
-Instagram: @seuusuario
-LinkedIn: seuusuario
-Feito com ❤️ por Seu Nome
+Sinta-se à vontade para entrar em contato comigo:\
 
+E-mail: fb.venceslau@gmail.com\
+Instagram: [@fb.venceslau](https://www.instagram.com/fb.venceslau/)\
+LinkedIn: [Fábio Venceslau](https://www.linkedin.com/in/fabio-venceslau/)\
+Feito com ❤️ por Fábio Venceslau
 
 ### Explicação das Seções
 
