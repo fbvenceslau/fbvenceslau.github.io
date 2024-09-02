@@ -81,10 +81,13 @@ section {
 }
 
 .project img {
-  max-width: 50px; /* Reduza este valor para diminuir a imagem */
-  height: auto;
   display: block;
+  margin: 0 auto;
+  max-width: 50px; /* Reduz o tamanho da imagem para 50% da largura do contêiner */
+  height: auto;
+  object-fit: cover; /* Mantém a proporção da imagem */
 }
+
 
 /* Contact Section Style */
 #contact {
