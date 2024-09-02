@@ -49,11 +49,11 @@ O portfólio é responsivo e foi projetado para ser visualmente atraente tanto e
 ## 🚀 Como Executar Localmente
 
 1. Clone este repositório para sua máquina local usando:
-git clone https://github.com/fbvenceslau/fbvenceslau.github.io.git
-cd meu-portfolio
+```git clone https://github.com/fbvenceslau/fbvenceslau.github.io.git```
+```cd meu-portfolio```
 
 2. Navegue até o diretório do projeto:
-cd meu-portfolio
+```cd meu-portfolio```
 Abra o arquivo index.html em seu navegador.
 
 ## 📝 Licença
@@ -63,10 +63,9 @@ Este projeto está licenciado sob a MIT License.
 Sinta-se à vontade para entrar em contato comigo:
 
 E-mail: fb.venceslau@gmail.com
-Instagram: @seuusuario
-LinkedIn: seuusuario
-Feito com ❤️ por Seu Nome
-
+Instagram: [@fb.venceslau](https://www.instagram.com/fb.venceslau/)
+LinkedIn: [Fábio Venceslau](https://www.linkedin.com/in/fabio-venceslau/)
+Feito com ❤️ por Fábio Venceslau
 
 ### Explicação das Seções
 
