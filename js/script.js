@@ -1,8 +1,2 @@
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-  anchor.addEventListener('click', function(e) {
-      e.preventDefault();
-      document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
-      });
-  });
-});
+// Mantém o ano do rodapé sempre atual
+document.getElementById('ano').textContent = new Date().getFullYear();
